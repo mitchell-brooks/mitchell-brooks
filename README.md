@@ -1,4 +1,4 @@
-[![mitchell_brooks](https://res.cloudinary.com/lyda-media/image/upload/v1643315016/header.svg)]
+[![mitchell_brooks](https://res.cloudinary.com/lyda-media/image/upload/v1643315016/header.svg)][1]
 
 <!--
 **mitchell-brooks/mitchell-brooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[1]: https://github.com/mitchell-brooks
