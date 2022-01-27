@@ -12,7 +12,7 @@ As the sole front-end engineer on a team of two, I was responsible for designing
 
 -------
 
-Before that, I spent the last few years building fast, functional custom web apps for small to medium businesses. I started with a background in marketing before doing a coding boot camp because I felt like the websites my clients were using sucked and I wanted to build better ones. My ambitions have grown and while I love helping small businesses with their problems, these days I like solving problems on a bigger scale and I'm looking for my next opportunity.
+Before that, I spent the last few years building fast, functional custom web apps for small to medium businesses. I started with a background in marketing before doing a coding boot camp because I felt like my clients' websites were lacking and I wanted to build better ones. My ambitions have grown and while I love helping small businesses with their problems, these days I like solving problems on a bigger scale and I'm looking for my next opportunity.
 
 ------
 
