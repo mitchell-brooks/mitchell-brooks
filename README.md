@@ -19,12 +19,15 @@ Before that, I spent the last few years building fast, functional custom web app
 I have a lot of production-level work in private repos, but you can get a feel for some of the tools I like to use in the public repos below. (And if you're a Vim user, check out my plugin!)
 
 *Some technology that I love working with, in no particular order:*
+
 TypeScript (although I'm a relatively recent convert), React, Gatsby, NextJS, Git, Webpack, Github Actions, styled-components, CSS variables
 
 *Some hot button developer topics that I'm excited about:*
+
 CI/CD and developer tooling, accessibility, monorepos, serverless functions (although I'm also excited about the shift back toward server-rendering), CSS Houdini
 
 *Some tech that I'm itching to have an excuse to try out and learn more about:*
+
 Svelte, Turborepo, Web Assembly
 
 I'd love to talk if you think there's an opportunity for us to work together! I'm also a firm believer that **everything** is interesting. If you're truly passionate about something (anything!) I'd probably love to hear about it.
