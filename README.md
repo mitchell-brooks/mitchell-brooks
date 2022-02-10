@@ -12,7 +12,7 @@ As the sole front-end engineer on a team of two, I was responsible for designing
 
 -------
 
-Before that, I spent the last few years building fast, functional custom web apps for small to medium businesses. I started with a background in marketing before doing a coding boot camp because I felt like my clients' websites were lacking and I wanted to build better ones. My ambitions have grown and while I love helping small businesses with their problems, these days I like solving problems on a bigger scale and I'm looking for my next opportunity.
+Before that, I spent the last few years building fast, functional custom web apps for small to medium businesses. I started with a background in marketing before doing a coding boot camp because I wanted to build better websites for my clients. My ambitions have grown and while I love helping small businesses with their problems, these days I like solving problems on a bigger scale and I'm looking for my next opportunity.
 
 ------
 
@@ -22,13 +22,13 @@ I have a lot of production-level work in private repos, but you can get a feel f
 
 TypeScript (although I'm a relatively recent convert), React, Gatsby, NextJS, Git, Webpack, Github Actions, styled-components, CSS variables
 
-*Some hot button developer topics that I'm excited about:*
+*Some hot button developer topics that I'm excited about in 2022:*
 
 CI/CD and developer tooling, accessibility, monorepos, serverless functions (although I'm also excited about the shift back toward server-rendering), CSS Houdini
 
-*Some tech that I'm itching to have an excuse to try out and learn more about:*
+*Some tech that I'm itching to have an excuse to try out and learn more about in 2022:*
 
-Svelte, Turborepo, Web Assembly
+Svelte, Turborepo, Web Assembly, Rust
 
 I'd love to talk if you think there's an opportunity for us to work together! I'm also a firm believer that **everything** is interesting. If you're truly passionate about something (anything!) I'd probably love to hear about it.
 
